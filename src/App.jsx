@@ -72,7 +72,7 @@ function App() {
       <footer className="fade-in" style={{ padding: '3rem 0 1rem', textAlign: 'center', color: 'var(--text-muted)', fontSize: '0.9rem', marginTop: 'auto' }}>
         <p style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '0.5rem' }}>
           <Sparkles size={16} color="var(--accent-primary)" />
-          Powered by Nikhita Munje
+          Powered by Nikita
         </p>
       </footer>
     </div>
